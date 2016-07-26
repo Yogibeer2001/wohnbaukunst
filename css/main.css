@@ -39,7 +39,7 @@ body {
 }
 
 .section-colored {
-  background-image: url(css/public/images/banner.jpg);
+  background-image: url(public/images/banner.jpg);
   background-size: contain;
   /*background-repeat: no-repeat;*/
   margin: 0;
