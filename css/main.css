@@ -139,12 +139,12 @@ body {
 .panel-body-faq {
   display: none;
 	position: absolute;
-	margin-left: 0px;
+	margin-left: 0;
 	margin-bottom: 20px;
 }
 
 .img-responsive {
-  box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+  box-shadow: 10px 10px 5px 0 rgba(0,0,0,0.75);
 }
 .col-sm-3 {
   /*position: relative;
@@ -347,7 +347,7 @@ body {
 	.footer-distributed .footer-right{
 		display: block;
 		width: 100%;
-		margin-bottom: 0px;
+		margin-bottom: 0;
 		text-align: center;
 	}
 
